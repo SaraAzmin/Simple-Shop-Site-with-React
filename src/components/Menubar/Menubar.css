@@ -1,0 +1,10 @@
+.container{
+padding: 30px 20px;
+}
+
+.menu-items a{
+    text-decoration: none;
+    margin: 20px;
+    font-size: 20px;
+    color: black;
+}
